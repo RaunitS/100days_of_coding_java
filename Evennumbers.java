@@ -1,3 +1,4 @@
+//this code is for printing even numbers from 0 to n
 package forloops;
 import java.util.Scanner;
 
