@@ -1,4 +1,4 @@
-//this code is for printing h letter
+//this code is for printing h letter pattern using h letter
 package forloops;
 
 
