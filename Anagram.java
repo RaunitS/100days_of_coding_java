@@ -1,3 +1,4 @@
+//this code is to check whether it is an anagram of strings or not
 package strings;
 
 public class Anagram {
